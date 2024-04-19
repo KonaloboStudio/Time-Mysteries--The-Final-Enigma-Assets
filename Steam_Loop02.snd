@@ -1,0 +1,5 @@
+<Sound Looped="true">
+	<CSample>
+		<CSampleFile FileName="Steam_Loop02.wav"/>
+	</CSample>
+</Sound>

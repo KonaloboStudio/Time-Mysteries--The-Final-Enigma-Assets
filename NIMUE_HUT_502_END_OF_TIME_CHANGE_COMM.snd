@@ -1,0 +1,6 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="NIMUE_HUT_502_END_OF_TIME_CHANGE_COMM.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

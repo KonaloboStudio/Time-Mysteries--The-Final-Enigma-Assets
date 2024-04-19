@@ -1,0 +1,18 @@
+<animatedImage fps="4" blendframes="0">
+	<frame source="nimue_house_cat_16.png"></frame>
+	<frame source="nimue_house_cat_17.png"></frame>
+	<frame source="nimue_house_cat_18.png"></frame>
+	<frame source="nimue_house_cat_19.png"></frame>
+	<frame source="nimue_house_cat_20.png"></frame>
+	<frame source="nimue_house_cat_21.png"></frame>
+	<frame source="nimue_house_cat_22.png"></frame>
+	<frame source="nimue_house_cat_23.png"></frame>
+	<frame source="nimue_house_cat_24.png"></frame>
+	<frame source="nimue_house_cat_25.png"></frame>
+	<frame source="nimue_house_cat_26.png"></frame>
+	<frame source="nimue_house_cat_27.png"></frame>
+	<frame source="nimue_house_cat_28.png"></frame>
+	<frame source="nimue_house_cat_29.png"></frame>
+	<frame source="nimue_house_cat_30.png"></frame>
+	<frame source="nimue_house_cat_31.png"></frame>
+</animatedImage>

@@ -1,0 +1,17 @@
+<Sound>
+	
+    <CSequenceContainer Delay="0" WaitAfter ="1">
+        <CSample>
+            <CSampleFile FileName="Foot_Ice_Walk16.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+            <CSampleFile FileName="Foot_Ice_Walk17.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+            <CSampleFile FileName="Foot_Ice_Walk18.wav"></CSampleFile>
+        </CSample>
+	<CSample>
+            <CSampleFile FileName="Foot_Ice_Walk19.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer >
+</Sound>		

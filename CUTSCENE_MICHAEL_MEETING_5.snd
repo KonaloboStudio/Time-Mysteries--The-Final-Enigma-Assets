@@ -1,0 +1,6 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="CUTSCENE_MICHAEL_MEETING_5.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

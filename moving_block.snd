@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="moving_block.wav"/>
+	</CSample>
+</Sound>

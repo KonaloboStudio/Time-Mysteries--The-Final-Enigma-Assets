@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="0">
+	<frame source="location_yard_crow1_04.png"></frame>
+	<frame source="location_yard_crow1_05.png"></frame>
+</animatedImage>

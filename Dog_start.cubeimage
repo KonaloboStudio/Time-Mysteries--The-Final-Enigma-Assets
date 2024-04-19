@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="0">
+	<frame source="fullscreenzoom_boy_dog_1.png"></frame>
+	<frame source="fullscreenzoom_boy_dog_2.png"></frame>
+	<frame source="fullscreenzoom_boy_dog_3.png"></frame>
+</animatedImage>

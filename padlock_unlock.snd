@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="padlock_unlock.wav"/>
+	</CSample>
+</Sound>

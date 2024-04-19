@@ -1,0 +1,5 @@
+<Sound Looped="true">
+	<CSample>
+		<CSampleFile FileName="ambient_add_Fire_in_Chimney.wav"/>
+	</CSample>
+</Sound>

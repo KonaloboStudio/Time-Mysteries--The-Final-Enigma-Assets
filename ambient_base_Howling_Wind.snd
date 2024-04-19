@@ -1,0 +1,5 @@
+<Sound Looped="true">
+	<CSample>
+		<CSampleFile FileName="ambient_base_Howling_Wind.wav"/>
+	</CSample>
+</Sound>

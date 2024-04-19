@@ -1,0 +1,6 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="item_merlin_1.png"></frame>
+	<frame source="item_merlin_2.png"></frame>
+	<frame source="item_merlin_3.png"></frame>
+	<frame source="item_merlin_2.png"></frame>
+</animatedImage>

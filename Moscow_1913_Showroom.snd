@@ -1,0 +1,5 @@
+<Sound Looped="true">
+	<CSample>
+		<CSampleFile FileName="Moscow_1913_Showroom.wav"/>
+	</CSample>
+</Sound>

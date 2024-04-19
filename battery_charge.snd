@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="battery_charge.wav"/>
+	</CSample>
+</Sound>

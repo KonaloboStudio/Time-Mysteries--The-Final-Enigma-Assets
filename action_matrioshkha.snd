@@ -1,0 +1,10 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="false">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.00" FileName="action_matrioshkha_1.wav" Looped="false"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.00" FileName="action_matrioshkha_2.wav" Looped="false"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound Looped="true">
+	<CSample>
+		<CSampleFile FileName="Wind_DesertLoop2.wav"/>
+	</CSample>
+</Sound>

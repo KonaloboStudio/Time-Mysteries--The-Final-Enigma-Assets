@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="Door_Open.wav"/>
+	</CSample>
+</Sound>

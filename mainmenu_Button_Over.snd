@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="mainmenu_Button_Over.wav"/>
+	</CSample>
+</Sound>

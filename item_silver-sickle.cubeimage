@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="item_silver-sickle1.png"></frame>
+	<frame source="item_silver-sickle2.png"></frame>
+	<frame source="item_silver-sickle3.png"></frame>
+	<frame source="item_silver-sickle2.png"></frame>
+</animatedImage>

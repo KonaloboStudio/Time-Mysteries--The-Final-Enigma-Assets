@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="1" width="78" height="78">
+	<frame source="item_merlin_mini_1.png" dx="0" dy="0" width="78" height="78"></frame>
+	<frame source="item_merlin_mini_2.png" dx="0" dy="0" width="78" height="78"></frame>
+	<frame source="item_merlin_mini_3.png" dx="0" dy="0" width="78" height="78"></frame>
+	<frame source="item_merlin_mini_2.png" dx="0" dy="0" width="78" height="78"></frame>
+</animatedImage>

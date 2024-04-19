@@ -1,0 +1,20 @@
+<!-- Used in Deck(Zoom with rammer). Cutting the rope. Used three times -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Looped="true" Volume="0.6" 
+FileName="amb_room_1.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Looped="true" Volume="0.7" 
+FileName="amb_thunder_interior.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

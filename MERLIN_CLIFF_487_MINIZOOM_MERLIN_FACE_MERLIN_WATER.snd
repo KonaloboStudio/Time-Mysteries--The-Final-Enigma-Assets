@@ -1,0 +1,6 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="MERLIN_CLIFF_487_MINIZOOM_MERLIN_FACE_MERLIN_WATER.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

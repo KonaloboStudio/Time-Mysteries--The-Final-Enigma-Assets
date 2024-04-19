@@ -1,0 +1,6 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="MOSCOW_1913_SHOWROOM_ZOOM_PORTRAIT_SAFE_DEAMON_HAND_APPEARS_COMM.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

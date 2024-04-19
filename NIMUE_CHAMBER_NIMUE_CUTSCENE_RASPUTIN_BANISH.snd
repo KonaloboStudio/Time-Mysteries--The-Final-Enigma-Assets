@@ -1,0 +1,6 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="NIMUE_CHAMBER_NIMUE_CUTSCENE_RASPUTIN_BANISH.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

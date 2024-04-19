@@ -1,0 +1,6 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="ESTHER_ROOM_COACHMAN_GIVES_LETTER_START.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

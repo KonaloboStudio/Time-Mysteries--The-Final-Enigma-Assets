@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="PTD_received.wav"/>
+	</CSample>
+</Sound>

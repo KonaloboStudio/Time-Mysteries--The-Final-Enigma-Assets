@@ -1,0 +1,9 @@
+<!-- Used in Basement, Minigame Fuse. Turning on an electrical circuit.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="minigame_Turn_On_Circuit.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>
